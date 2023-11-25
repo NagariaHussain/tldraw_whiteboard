@@ -11,7 +11,7 @@ frappe.pages["whiteboard"].on_page_show = function (wrapper) {
 };
 
 function load_desk_page(wrapper) {
-	let $parent = $(wrapper).find(".layout-main-section");
+	let $parent = $(wrapper);
 	$parent.empty();
 
 	frappe.require(["whiteboard.bundle.css", "whiteboard.bundle.jsx"]).then(() => {
