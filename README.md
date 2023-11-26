@@ -2,7 +2,7 @@
 
 Feature rich whiteboard, powered by tldraw.dev, right in your Frappe desk.
 
-![Screenshot showing the whiteboard page in desk](.github/assets/hero.png)
+![Screenshot showing the whiteboard page in desk](https://platform.buildwithhussain.dev/files/CleanShot%202023-11-26%20at%2017.14.06@2x.png)
 
 ### Keyboard Shortcut
 
